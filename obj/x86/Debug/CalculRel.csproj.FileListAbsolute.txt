@@ -1,0 +1,21 @@
+I:\C#\CalculRel\CalculRel\bin\Debug\CalculRel.exe
+I:\C#\CalculRel\CalculRel\bin\Debug\CalculRel.pdb
+I:\C#\CalculRel\CalculRel\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#\CalculRel\CalculRel\obj\x86\Debug\CalculRel.exe
+I:\C#\CalculRel\CalculRel\obj\x86\Debug\CalculRel.pdb
+I:\C#\CalculRel\CalculRel\obj\x86\Debug\CalculRel.MainForm.resources
+I:\C#\CalculRel\CalculRel\obj\x86\Debug\CalculRel.csproj.GenerateResource.Cache
+L:\Работа\Проект FOLIO\Программирование под Win\Подбор резисторов\CalculRel\CalculRel\bin\Debug\CalculRel.exe
+L:\Работа\Проект FOLIO\Программирование под Win\Подбор резисторов\CalculRel\CalculRel\bin\Debug\CalculRel.pdb
+L:\Работа\Проект FOLIO\Программирование под Win\Подбор резисторов\CalculRel\CalculRel\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Работа\Проект FOLIO\Программирование под Win\Подбор резисторов\CalculRel\CalculRel\obj\x86\Debug\CalculRel.MainForm.resources
+L:\Работа\Проект FOLIO\Программирование под Win\Подбор резисторов\CalculRel\CalculRel\obj\x86\Debug\CalculRel.csproj.GenerateResource.Cache
+L:\Работа\Проект FOLIO\Программирование под Win\Подбор резисторов\CalculRel\CalculRel\obj\x86\Debug\CalculRel.exe
+L:\Работа\Проект FOLIO\Программирование под Win\Подбор резисторов\CalculRel\CalculRel\obj\x86\Debug\CalculRel.pdb
+E:\С#\Подбор резисторов\CalculRel\CalculRel\bin\Debug\CalculRel.exe
+E:\С#\Подбор резисторов\CalculRel\CalculRel\bin\Debug\CalculRel.pdb
+E:\С#\Подбор резисторов\CalculRel\CalculRel\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\С#\Подбор резисторов\CalculRel\CalculRel\obj\x86\Debug\CalculRel.MainForm.resources
+E:\С#\Подбор резисторов\CalculRel\CalculRel\obj\x86\Debug\CalculRel.csproj.GenerateResource.Cache
+E:\С#\Подбор резисторов\CalculRel\CalculRel\obj\x86\Debug\CalculRel.exe
+E:\С#\Подбор резисторов\CalculRel\CalculRel\obj\x86\Debug\CalculRel.pdb

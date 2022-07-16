@@ -1,0 +1,5 @@
+I:\C#\CalculRel\CalculRel\bin\Release\CalculRel.exe
+I:\C#\CalculRel\CalculRel\obj\x86\Release\ResolveAssemblyReference.cache
+I:\C#\CalculRel\CalculRel\obj\x86\Release\CalculRel.MainForm.resources
+I:\C#\CalculRel\CalculRel\obj\x86\Release\CalculRel.csproj.GenerateResource.Cache
+I:\C#\CalculRel\CalculRel\obj\x86\Release\CalculRel.exe
